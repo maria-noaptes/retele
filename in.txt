@@ -1,0 +1,6 @@
+weather/temperature/Yassi
+weather/pressure/Yassi
+weather/humidity/Yassi
+weather/temperature/Bucharest
+weather/pressure/Bucharest
+weather/humidity/Bucharest
